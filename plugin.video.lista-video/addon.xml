@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.lista-video" name="lista de videos" version="1.0.9" provider-name="Rz Repositorio de Addons">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="repository.xbmc-roberson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Gerenciador de lista de canais</summary>
+    <description lang="en">Crie e edite exclua suas propias listas M3U ou urls Facilmente </description>
+    <platform>all</platform>
+  </extension>
+</addon>

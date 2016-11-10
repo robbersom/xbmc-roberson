@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.xbmc-roberson" name=".[COLOR blue]XBMC roberson [/COLOR][COLOR white] Roberson[/COLOR]" version="1.0.4" provider-name="robbersom">
-    <extension point="xbmc.addon.repository" name="XBMC roberson">
+<addon id="plugin.video.lista-video" name="lista de videos" version="1.0.9" provider-name="Rz Repositorio de Addons">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="repository.xbmc-roberson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Gerenciador de lista de canais</summary>
+    <description lang="en">Crie e edite exclua suas propias listas M3U ou urls Facilmente </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.xbmc-roberson" name=".[COLOR blue]Repositorio [/COLOR][COLOR white]-RZ Addons[/COLOR]" version="1.0.4" provider-name="Robbersom">
+    <extension point="xbmc.addon.repository" name="Repositorio Addons xbmc- Kodi">
         <info compressed="false">https://raw.githubusercontent.com/robbersom/xbmc-roberson/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/robbersom/xbmc-roberson/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/robbersom/xbmc-roberson/master/repo</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>XBMC Israeli Streaming Sites</summary>
-        <description>Download and install addons for XBMC Israeli streaming repo for streaming sites</description>
+        <summary>Repositorio Addons xbmc-Kodi</summary>
+        <description>Baixe e instale o add-ons na categoria "All" do RepositÃ³rio  [CR] [CR] Se vocÃª encontrar um add-on quebrado ou nÃ£o funcionando, ou vocÃª gostaria de incluir um outro, por favor visite em construÃ§Ã£o [CR] [CR]O repositÃ³rio Ã© mantida pela comunidade do Kodi usando o Wiki do xbmc e o nosso gerador de busca de add-ons mÃºltiplas fontes. Portanto RZ Addons nÃ£o aceita qualquer responsabilidade por esse serviÃ§o.[CR][CR]O Gerador Reposity eXtended Ã© desenvolvido por RZ Addons[CR][CR]</description>
         <platform>all</platform>
     </extension>
 </addon>

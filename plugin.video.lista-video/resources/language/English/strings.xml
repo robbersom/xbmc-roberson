@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="10001">Add a nova lista</string>
+	<string id="10002">Selecionar Origem</string>
+	<string id="10003">Favoritos</string>
+	<string id="10004">Nome da lista</string>
+	<string id="10005">URL da lista</string>
+	<string id="10006">Escolher lista</string>
+	<string id="10007">Já cadastrada</string>
+	<string id="10008">Remover lista de reproduçao</string>
+	<string id="10009">Adicionar a lista de favoritos</string>
+	<string id="10010">Remover da lista de favorito</string>
+	<string id="10011">Já está nos favoritos</string>
+	<string id="10012">Adicionado aos favoritos</string>
+	<string id="10013">Adicionar um novo canal</string>
+	<string id="10014">Nome do canal</string>
+	<string id="10015">URL do canal</string>
+	<string id="10016">Lista remota (URL)</string>
+	<string id="10017">Lista Local (File)</string>
+	<string id="10018">Selecionar logos canais fonte</string>
+	<string id="10019">Selecionar logos canais base URL</string>
+	<string id="10020">Selecionar logos canais Pasta</string>
+	<string id="10021">Nenhum</string>
+	<string id="10022">Selecionar lista logotipo</string>
+	<string id="10023">Escolha o logotipo do canal</string>
+	<string id="10024">URL do logo</string>
+	<string id="10025">Logo a partir do arquivo</string>
+	<string id="10026">Renomear</string>
+	<string id="10027">Alterar origem</string>
+	<string id="10028">Alterar o logotipo</string>
+	<string id="10029">Alterar fonte de logotipos de canais</string>
+	<string id="10030">Mover para cima</string>
+	<string id="10031">Mover para baixo</string>
+	<string id="10032">Mover para</string>
+	<string id="10033">Selecione um novo local</string>
+	<string id="10101">Excluir arquivo da listas de reproduçao</string>
+	<string id="10102">Excluir arquivo de favoritos</string>
+</strings>
