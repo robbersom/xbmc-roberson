@@ -16,7 +16,7 @@
 </addon>
 
 <addon id="repository.xbmc-roberson" name=".[COLOR blue]Repositorio [/COLOR][COLOR white]-RZ Addons[/COLOR]" version="1.0.4" provider-name="Robbersom">
-    <extension point="xbmc.addon.repository" name="Repositorio Addons xbmc- Kodi">
+    <extension point="xbmc.addon.repository" name="Repositorio Addons xbmc-Kodi">
         <info compressed="false">https://raw.githubusercontent.com/robbersom/xbmc-roberson/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/robbersom/xbmc-roberson/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/robbersom/xbmc-roberson/master/repo</datadir>
