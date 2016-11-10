@@ -40,17 +40,4 @@
   </extension>
   <extension library="lib" point="xbmc.python.module" />
 </addon>
-
-<addon id="script.module.rzaddon-urlresolver" name="rzaddonresolver" version="0.3.1" provider-name="rzaddonresolver (rz repo addons)">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-	<import addon="repository.xbmc-roberson" />
-  </requires>
-  <extension point="xbmc.python.module" library="lib" />
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">Resolver URLs dinamicas para ser jogado em XBMC / Kodi.</summary>
-    <description lang="en">Resolver URLs dinamicas para ser jogado em XBMC / Kodi.</description>
-  </extension>
-</addon>
 </addons>
