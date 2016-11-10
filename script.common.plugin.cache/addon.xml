@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<addon id="script.common.plugin.cache" name="Common plugin cache" provider-name="RZ Addons" version="2.5.7">
+<addon id="script.common.plugin.cache" name="Common plugin cache" provider-name="Rz addons" version="2.5.8">
   <requires>
-    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="xbmc.python" version="2.24.0" />
   </requires>
   <extension library="default.py" point="xbmc.service" start="startup">
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">Api de cache comum para os plug-ins do xbmc.</summary>
+    <summary lang="en">Common caching api for xbmc plugins.</summary>
   </extension>
   <extension library="lib" point="xbmc.python.module" />
 </addon>
- 
