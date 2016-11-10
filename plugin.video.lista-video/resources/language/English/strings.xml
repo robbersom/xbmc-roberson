@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <strings>
-	<string id="10001">Add a nova lista</string>
+	<string id="10001">Adicionar nova lista</string>
 	<string id="10002">Selecionar Origem</string>
 	<string id="10003">Favoritos</string>
 	<string id="10004">Nome da lista</string>
