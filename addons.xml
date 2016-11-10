@@ -49,8 +49,8 @@
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">Resolver URLs dinÃ¢micas para ser jogado em XBMC / Kodi.</summary>
-    <description lang="en">Resolver URLs dinÃ¢micas para ser jogado em XBMC / Kodi.</description>
+    <summary lang="en">Resolver URLs dinamicas para ser jogado em XBMC / Kodi.</summary>
+    <description lang="en">Resolver URLs dinamicas para ser jogado em XBMC / Kodi.</description>
   </extension>
 </addon>
 </addons>
